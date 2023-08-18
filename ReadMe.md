@@ -30,7 +30,7 @@ v1.0版本
 ![bean](https://github.com/wangchaocode/attrconfig/assets/37795817/ad94bfc4-8238-4f95-af25-835746da1564)
 ## 通过本starter实现：
 ![jg](https://github.com/wangchaocode/attrconfig/assets/37795817/b6e18bd6-f58a-43a6-91e2-157414a14558)
-如有问题可联系QQ：997035623，备注github问题咨询
+## 如有问题可联系QQ：997035623，备注github问题咨询
 
 
 
