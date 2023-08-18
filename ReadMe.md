@@ -22,3 +22,13 @@
 ```
 ### Reference Documentation
 v1.0版本
+
+例如：数据库数据：
+![数据库](https://github.com/wangchaocode/attrconfig/assets/37795817/688e4d08-7cdf-4a43-bd74-13a05d45bf01)
+自己bean:
+![bean](https://github.com/wangchaocode/attrconfig/assets/37795817/ad94bfc4-8238-4f95-af25-835746da1564)
+通过本starter实现：
+![测试结果](https://github.com/wangchaocode/attrconfig/assets/37795817/d0b26c24-6353-4ee3-b055-df5abf3c71bd)
+
+
+
