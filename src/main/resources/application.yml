@@ -1,0 +1,13 @@
+# 映射自己数据库对应字段，没有则默认配置
+dict:
+  dictTableName: sys_dict_data
+  dictLabel: dict_label
+  dictValue: dict_value
+  dictType: dict_type
+  typeValue: user
+  copyNull: false
+#指定mapper映射文件位置
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
